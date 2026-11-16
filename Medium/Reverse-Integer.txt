@@ -1,7 +1,3 @@
--------------------------------------------------------------------
----------Java LeetCode 7th problem Solution : Reverse Integer------>
--------------------------------------------------------------------
-
 class Solution {
     public int reverse(int x) {
         int reverse = 0;
